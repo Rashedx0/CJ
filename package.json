@@ -1,0 +1,13 @@
+{
+  "name": "CJ",
+  "description": "By iiRashedx",
+  "version": "0.0.0",
+  "main": "cj.js",
+  "scripts": {
+    "start": "node cj.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
